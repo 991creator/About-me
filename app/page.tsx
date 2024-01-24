@@ -13,9 +13,8 @@ export default function Home() {
         <div className="flex flex-col justify-center items-start bg-black p-[25px] rounded-3xl">
           <div className='flex flex-row justify-start items-center'>
             <div className='flex justify-center items-center h-[60px] w-[60px] bg-pink-400  rounded-full mr-[15px]'>
-            <Image src='/Mickey_mouse.png' width={50} height={50} alt="My logo"></Image>
             </div>
-            <p className='text-xl'>Andrey Konuhow</p>
+            <p className='text-xl text-white'>Andrey Konuhow</p>
           </div>
         <p className='text-white text-3xl mt-[15px]'>Привет, приятно познакомиться :)</p>
         </div>  
